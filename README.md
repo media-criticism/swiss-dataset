@@ -9,3 +9,9 @@
 </p>
 
 Public datasets for the Radar Media Criticism Switzerland project.
+
+1. Mass media: 
+2. Media critical institutions:
+3. Social media
+   - media critical persons
+   - mass media
