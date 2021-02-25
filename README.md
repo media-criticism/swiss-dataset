@@ -27,4 +27,5 @@
 
 ## Dataset documentation & reference:
 
-Weichselbraun, Albert, Kuntschik, Philipp, Fancolino, Vincenzo, Saner, Mirco and Wyss, Vinzenz. (2021). “Adapting Data-Driven Research to the Fields of Social Sciences and the Humanities”. Future Internet, Accepted 22 February 2021
+- Journal article: Weichselbraun, Albert, Kuntschik, Philipp, Fancolino, Vincenzo, Saner, Mirco and Wyss, Vinzenz. (2021). *“Adapting Data-Driven Research to the Fields of Social Sciences and the Humanities”*. Future Internet, Accepted 22 February 2021
+- [German project web site](https://mediacriticism.semanticlab.net/html/quellen.html)
