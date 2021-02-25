@@ -11,11 +11,14 @@
 
 ## Public datasets for the Radar Media Criticism Switzerland project.
 
-1. Mass media: 
-2. Media critical institutions:
+1. Mass media ([CSV](https://github.com/media-criticism/swiss-dataset/blob/main/entities-and-sources/csv/mass-media.csv))
+2. Media critical institutions 
+   - general ([CSV](https://github.com/media-criticism/swiss-dataset/blob/main/entities-and-sources/csv/media-critical-insitutions-general.csv))
+   - press releases ([CSV](https://github.com/media-criticism/swiss-dataset/blob/main/entities-and-sources/csv/media-critical-insitutions-press-releases.csv))
 3. Social media
-   - media critical persons
-   - mass media
+   - media critical persons ([CSV](https://github.com/media-criticism/swiss-dataset/blob/main/entities-and-sources/csv/social-media-accounts-persons.csv))
+   - mass media ([CSV](https://github.com/media-criticism/swiss-dataset/blob/main/entities-and-sources/csv/social-media-accounts-mass-media.csv))
+4. [Combined and formatted Tables in the Open Document Format](https://github.com/media-criticism/swiss-dataset/blob/main/entities-and-sources/entities-and-sources.ods)
 
 ## Available formats:
 - Open Document Format for Office Applications
